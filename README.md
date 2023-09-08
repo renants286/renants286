@@ -1,6 +1,6 @@
 ## **Renan Tavares**
 
-<h6> Don't speak Portuguese? <a heref="">Click here</a> to view this page in English</h6>
+<h6> Don't speak Portuguese? <a href="https://github.com/renants286/renants286/blob/main/README-en.md">Click here to view this page in English.</a></h6>
 
 🏃‍♂️🔧🚀 Apaixonado por Corrida de Rua, Tecnologia e Indústria 4.0 🏃‍♂️🔧🚀
 
@@ -24,4 +24,4 @@ Siga-me e explore meus projetos aqui no GitHub. Juntos, podemos cruzar a linha d
 - 📫 Como me encontrar:
   
   <a href="https://www.linkedin.com/in/renan-tavares-3887ab29/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://www.discord.com"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
